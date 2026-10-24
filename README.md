@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashni</h1>
 
-<h3 align="center">Aspiring DevOps Engineer | Future MLOps Engineer</h3>
+<h3 align="center">Aspiring DevOps Engineer</h3>
 
 <p align="center">
   Building my technical skills through hands-on practice
@@ -15,7 +15,6 @@
 - 🎓 Computer Science Engineering graduate-to-be
 - 🌱 Currently learning Git, GitHub, and Linux
 - ☁️ Interested in DevOps, Cloud Computing, and Automation
-- 🤖 My long-term goal is to become an MLOps Engineer
 - 💡 I enjoy learning new technologies and solving problems
 - 🎯 Focused on building practical projects and improving my skills
 
@@ -23,43 +22,65 @@
 
 ## 🛠️ Skills & Technologies
 
-**Currently Learning**
+### Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align="left">
+  <a href="https://www.python.org/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=python&theme=light" width="80" height="80" alt="Python" />
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=git&theme=light" width="80" height="80" alt="Git" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="80" height="80" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="80" height="80" alt="Linux" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="80" height="80" alt="Shell Scripting" />
+  </a>
 </p>
 
-**Exploring Next:** Python, Docker, AWS, CI/CD, Kubernetes
+<p align="left">
+  <b>Python</b> &nbsp; • &nbsp;
+  <b>Git</b> &nbsp; • &nbsp;
+  <b>GitHub</b> &nbsp; • &nbsp;
+  <b>Linux</b> &nbsp; • &nbsp;
+  <b>Shell Scripting</b>
+</p>
+
+**Exploring Next:** Docker, AWS, CI/CD, Kubernetes
 
 ---
 
-## 📂 My Projects
+## 🚀 Featured Project
 
-🚀 I am working towards building practical projects
-to strengthen my DevOps skills.
+### ATS Resume Analyzer & Skill Gap Analyzer
+**Status:** Ongoing
 
-- 🐧 Linux Practice Labs
-- 🔧 Git and GitHub Practice
-- 🐍 Python Automation Scripts
-- ⚙️ CI/CD Pipeline Project (Upcoming)
+- Analyzes resumes for ATS-related compatibility.
+- Compares resume skills with job description requirements.
+- Identifies missing skills and suggests areas for improvement.
 
-Project repositories will be added here as I build them.
+**Technologies:** Python, NLP, Git, GitHub
+
+---
+## 🏆 Certifications & Achievements
+
+- 📜 NPTEL Certification in Ethical Hacking
+- 💻 Smart India Hackathon Participant
+- 📚 Java Fundamentals Certification
+- 🤖 AI Fundamentals Certification
 
 ---
 
-## 📈 My GitHub Journey
 
-I believe in learning consistently, practicing regularly,
-and improving one step at a time.
-
----
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: linkedin.com/in/yashnibaskar
+- 📧 Email: yashnibaskar@gmail.com
 
 ---
 
